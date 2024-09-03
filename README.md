@@ -5,7 +5,7 @@ Hey there, I'm Dillon 👋
 
 - 🌱 I’m currently learning ... how to program in Lua and use design tools like Blender to make games for the Roblox platform.
 
-- 📫 How to reach me: ... Via the email associated with my profile
+- 📫 How to reach me: ... dillons012@gmail.com
 
 - 😄 Pronouns: ... he / him
 
